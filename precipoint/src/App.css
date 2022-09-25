@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.center {
+  text-align: -webkit-center;
+}
+
+.guide{
+  text-align-last: center;
+  line-height: 0.4rem;
+  color: orange;
+}
